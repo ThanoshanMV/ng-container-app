@@ -1,6 +1,6 @@
 {
-  "name": "ng-container-app",
-  "version": "0.0.0",
+  "name": "@meiko/container",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -43,5 +43,20 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanoshanMV/ng-container-app.git"
+  },
+  "keywords": [
+    "meiko"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThanoshanMV/ng-container-app/issues"
+  },
+  "homepage": "https://github.com/ThanoshanMV/ng-container-app#readme"
 }
